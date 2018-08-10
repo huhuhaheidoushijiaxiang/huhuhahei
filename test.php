@@ -13,7 +13,7 @@ function pdd($s,$m=1023,$str = ''){
 			}
 		}
 	}else{
-		return '不在规定范围之内001。';
+		return '不在规定范围之内0012。';
 	}
 
 }
